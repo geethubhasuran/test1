@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-prinf("helloo");
+prinf("helloo world");
 return 0;
 }
